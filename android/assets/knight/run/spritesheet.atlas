@@ -1,0 +1,449 @@
+
+spritesheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+001
+  rotate: false
+  xy: 1, 1577
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 1, 1225
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 300, 1577
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+004
+  rotate: false
+  xy: 1, 873
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+005
+  rotate: false
+  xy: 300, 1225
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 599, 1577
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 1, 521
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 300, 873
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+009
+  rotate: false
+  xy: 599, 1225
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 898, 1577
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 1, 169
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 300, 521
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 599, 873
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 898, 1225
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 1197, 1577
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+016
+  rotate: false
+  xy: 300, 169
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+017
+  rotate: false
+  xy: 599, 521
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+018
+  rotate: false
+  xy: 898, 873
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+019
+  rotate: false
+  xy: 1197, 1225
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 1496, 1577
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+021
+  rotate: false
+  xy: 599, 169
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+022
+  rotate: false
+  xy: 898, 521
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+023
+  rotate: false
+  xy: 1197, 873
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+024
+  rotate: false
+  xy: 1496, 1225
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+025
+  rotate: false
+  xy: 898, 169
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+026
+  rotate: false
+  xy: 1197, 521
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+027
+  rotate: false
+  xy: 1496, 873
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+028
+  rotate: false
+  xy: 1197, 169
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+029
+  rotate: false
+  xy: 1496, 521
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+030
+  rotate: false
+  xy: 1496, 169
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+000
+  rotate: false
+  xy: 1, 1
+  size: 141, 166
+  orig: 141, 166
+  offset: 0, 0
+  index: -1
+
+spritesheet2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+031
+  rotate: false
+  xy: 1, 1409
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+032
+  rotate: false
+  xy: 1, 1057
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+033
+  rotate: false
+  xy: 300, 1409
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+034
+  rotate: false
+  xy: 1, 705
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+035
+  rotate: false
+  xy: 300, 1057
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+036
+  rotate: false
+  xy: 599, 1409
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+037
+  rotate: false
+  xy: 1, 353
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+038
+  rotate: false
+  xy: 300, 705
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+039
+  rotate: false
+  xy: 599, 1057
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+040
+  rotate: false
+  xy: 898, 1409
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+041
+  rotate: false
+  xy: 1, 1
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+042
+  rotate: false
+  xy: 300, 353
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+043
+  rotate: false
+  xy: 599, 705
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+044
+  rotate: false
+  xy: 898, 1057
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+045
+  rotate: false
+  xy: 1197, 1409
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+046
+  rotate: false
+  xy: 300, 1
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+047
+  rotate: false
+  xy: 599, 353
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+048
+  rotate: false
+  xy: 898, 705
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+049
+  rotate: false
+  xy: 1197, 1057
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+050
+  rotate: false
+  xy: 1496, 1409
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+051
+  rotate: false
+  xy: 599, 1
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+052
+  rotate: false
+  xy: 898, 353
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+053
+  rotate: false
+  xy: 1197, 705
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+054
+  rotate: false
+  xy: 1496, 1057
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+055
+  rotate: false
+  xy: 898, 1
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+056
+  rotate: false
+  xy: 1197, 353
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+057
+  rotate: false
+  xy: 1496, 705
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+058
+  rotate: false
+  xy: 1197, 1
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+059
+  rotate: false
+  xy: 1496, 353
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+060
+  rotate: false
+  xy: 1496, 1
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1
+
+spritesheet3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+061
+  rotate: false
+  xy: 1, 1
+  size: 297, 350
+  orig: 297, 350
+  offset: 0, 0
+  index: -1

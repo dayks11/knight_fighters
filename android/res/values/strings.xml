@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KnightFighters</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_game_map">GameMap</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="title_activity_game_back_ground">GameBackGround</string>
+    <string name="title_activity_level1launcher">Level 1 Launcher</string>
+    <string name="title_activity_level1background">Level1background</string>
+    <string name="title_activity_level2background">Level2background</string>
+    <string name="title_activity_level3background">Level3background</string>
+    <string name="title_activity_level4background">Level4background</string>
+    <string name="title_activity_level2">Level2</string>
+    <string name="title_activity_level3">Level3</string>
+    <string name="title_activity_level4">Level4</string>
+</resources>
